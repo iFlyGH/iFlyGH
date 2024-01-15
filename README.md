@@ -13,6 +13,6 @@ I am currently attending college for "Creative Technology", which teaches us abo
 Well I'm currently looking to expand my knowledge into HTML and css, at time of writing, I currently have an assignment due for my Website Development class and we have been learning about HTML and CSS, it seems enjoyable so I plan to expand my expertise in that specific subject .
 
 ### How do I reach you?
-As you may notice, my Discord messages are indeed off. If you have a JartexNetwork question, and it is to do with Jartex's management side of things, feel free to email support@jartexnetwork.com however I will be conducting a method of communication shortly, so please do be patient! In the mean time, simply tag me in main chat with your topic, if you simply tag me, I may not reply so make sure to provide your topic there.
+As you may notice, my Discord messages are indeed off. If you have a JartexNetwork question, and it is to do with Jartex's management side of things, feel free to make a ticket on the Forums however I will be conducting a method of communication shortly, so please do be patient! In the mean time, simply tag me in main chat with your topic, if you simply tag me, I may not reply so make sure to provide your topic there.
 
 That is all! I amy add more here later on. This just seemed like a nice idea to do, to customize my GitHub page, and I stole the idea off Nuggets.
