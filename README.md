@@ -9,6 +9,9 @@ I plan to work on a few other ideas, all of them Minecraft related, however they
 ### What are you studying?
 I am currently attending college for "Creative Technology", which teaches us about IT as well as how the online world works. We learn things about databases, website development, program development, maintaining hardware as well as fixing computers in general. 
 
+## What plans do I have?
+Well I'm currently looking to expand my knowledge into HTML and css, at time of writing, I currently have an assignment due for my Website Development class and we have been learning about HTML and CSS, it seems enjoyable so I plan to expand my expertise in that specific subject .
+
 ### How do I reach you?
 As you may notice, my Discord messages are indeed off. If you have a JartexNetwork question, and it is to do with Jartex's management side of things, feel free to email support@jartexnetwork.com however I will be conducting a method of communication shortly, so please do be patient! In the mean time, simply tag me in main chat with your topic, if you simply tag me, I may not reply so make sure to provide your topic there.
 
